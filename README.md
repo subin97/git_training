@@ -1,8 +1,4 @@
-# git_training
-openhack git training
----
-
-# test
+# 주석 test
 [comment]:<> (주석내용)
 [//]: <> (주석내용)
 [//]: # (주석내용)
